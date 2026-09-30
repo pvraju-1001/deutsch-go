@@ -1,0 +1,23 @@
+.layout {
+  display: grid;
+  gap: 20px;
+}
+
+.aside {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media (min-width: 900px) {
+  .layout {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    align-items: start;
+    gap: 28px;
+  }
+
+  .aside {
+    position: sticky;
+    top: 96px;
+  }
+}

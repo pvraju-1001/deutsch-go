@@ -1,0 +1,1442 @@
+{
+  "level": "A1",
+  "month": "2026-10",
+  "entries": [
+    {
+      "id": "a1-2026-10-01",
+      "date": "2026-10-01",
+      "word": "Hallo",
+      "translation": "hello",
+      "partOfSpeech": "interjection",
+      "grammar": {
+        "note": "Informal greeting for any time of day. More formal: „Guten Tag“."
+      },
+      "sentences": [
+        {
+          "de": "Hallo, ich heiße Anna.",
+          "en": "Hello, my name is Anna."
+        },
+        {
+          "de": "Hallo, wie geht es dir?",
+          "en": "Hello, how are you?"
+        },
+        {
+          "de": "Sag Hallo zu deiner Mutter!",
+          "en": "Say hello to your mother!"
+        },
+        {
+          "de": "Hallo, ist hier noch frei?",
+          "en": "Hello, is this seat free?"
+        },
+        {
+          "de": "Hallo zusammen, schön, euch zu sehen!",
+          "en": "Hello everyone, nice to see you!"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-02",
+      "date": "2026-10-02",
+      "word": "gehen",
+      "translation": "to go, to walk",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "gehe"
+            },
+            {
+              "label": "du",
+              "value": "gehst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "geht"
+            },
+            {
+              "label": "wir",
+              "value": "gehen"
+            },
+            {
+              "label": "ihr",
+              "value": "geht"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "gehen"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich bin gegangen."
+      },
+      "sentences": [
+        {
+          "de": "Ich gehe jeden Tag zur Arbeit.",
+          "en": "I go to work every day."
+        },
+        {
+          "de": "Gehst du heute ins Kino?",
+          "en": "Are you going to the cinema today?"
+        },
+        {
+          "de": "Wir gehen am Wochenende in den Park.",
+          "en": "We go to the park at the weekend."
+        },
+        {
+          "de": "Wie geht es Ihnen?",
+          "en": "How are you? (formal)"
+        },
+        {
+          "de": "Das Kind geht noch nicht zur Schule.",
+          "en": "The child doesn’t go to school yet."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-03",
+      "date": "2026-10-03",
+      "word": "Wasser",
+      "translation": "water",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "das",
+        "plural": "—",
+        "note": "Usually used without a plural."
+      },
+      "sentences": [
+        {
+          "de": "Ich trinke jeden Tag viel Wasser.",
+          "en": "I drink a lot of water every day."
+        },
+        {
+          "de": "Ein Glas Wasser, bitte.",
+          "en": "A glass of water, please."
+        },
+        {
+          "de": "Das Wasser ist sehr kalt.",
+          "en": "The water is very cold."
+        },
+        {
+          "de": "Möchtest du Wasser mit oder ohne Kohlensäure?",
+          "en": "Would you like sparkling or still water?"
+        },
+        {
+          "de": "Wir brauchen Wasser für die Blumen.",
+          "en": "We need water for the flowers."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-04",
+      "date": "2026-10-04",
+      "word": "essen",
+      "translation": "to eat",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "esse"
+            },
+            {
+              "label": "du",
+              "value": "isst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "isst"
+            },
+            {
+              "label": "wir",
+              "value": "essen"
+            },
+            {
+              "label": "ihr",
+              "value": "esst"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "essen"
+            }
+          ]
+        },
+        "note": "Stem change e → i (du isst, er isst). Perfect tense: ich habe gegessen."
+      },
+      "sentences": [
+        {
+          "de": "Ich esse gern Pizza.",
+          "en": "I like eating pizza."
+        },
+        {
+          "de": "Was isst du zum Frühstück?",
+          "en": "What do you eat for breakfast?"
+        },
+        {
+          "de": "Wir essen um sieben Uhr zu Abend.",
+          "en": "We have dinner at seven o’clock."
+        },
+        {
+          "de": "Er isst kein Fleisch.",
+          "en": "He doesn’t eat meat."
+        },
+        {
+          "de": "Sollen wir heute zusammen essen?",
+          "en": "Shall we eat together today?"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-05",
+      "date": "2026-10-05",
+      "word": "Haus",
+      "translation": "house",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "das",
+        "plural": "die Häuser",
+        "note": "„nach Hause“ = (going) home, „zu Hause“ = at home."
+      },
+      "sentences": [
+        {
+          "de": "Das Haus ist groß und hell.",
+          "en": "The house is big and bright."
+        },
+        {
+          "de": "Ich bin heute zu Hause.",
+          "en": "I am at home today."
+        },
+        {
+          "de": "Wir gehen jetzt nach Hause.",
+          "en": "We are going home now."
+        },
+        {
+          "de": "Meine Eltern haben ein Haus mit Garten.",
+          "en": "My parents have a house with a garden."
+        },
+        {
+          "de": "In unserer Straße gibt es viele alte Häuser.",
+          "en": "There are many old houses on our street."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-06",
+      "date": "2026-10-06",
+      "word": "haben",
+      "translation": "to have",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "habe"
+            },
+            {
+              "label": "du",
+              "value": "hast"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "hat"
+            },
+            {
+              "label": "wir",
+              "value": "haben"
+            },
+            {
+              "label": "ihr",
+              "value": "habt"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "haben"
+            }
+          ]
+        },
+        "note": "Irregular. Also used to build the perfect tense."
+      },
+      "sentences": [
+        {
+          "de": "Ich habe einen Bruder und eine Schwester.",
+          "en": "I have a brother and a sister."
+        },
+        {
+          "de": "Hast du heute Zeit?",
+          "en": "Do you have time today?"
+        },
+        {
+          "de": "Sie hat Hunger.",
+          "en": "She is hungry. (literally: she has hunger)"
+        },
+        {
+          "de": "Wir haben keine Milch mehr.",
+          "en": "We have no more milk."
+        },
+        {
+          "de": "Habt ihr ein Auto?",
+          "en": "Do you (all) have a car?"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-07",
+      "date": "2026-10-07",
+      "word": "sein",
+      "translation": "to be",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "bin"
+            },
+            {
+              "label": "du",
+              "value": "bist"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "ist"
+            },
+            {
+              "label": "wir",
+              "value": "sind"
+            },
+            {
+              "label": "ihr",
+              "value": "seid"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "sind"
+            }
+          ]
+        },
+        "note": "The most important irregular verb. Perfect tense: ich bin gewesen."
+      },
+      "sentences": [
+        {
+          "de": "Ich bin Student.",
+          "en": "I am a student."
+        },
+        {
+          "de": "Bist du müde?",
+          "en": "Are you tired?"
+        },
+        {
+          "de": "Das Wetter ist heute schön.",
+          "en": "The weather is nice today."
+        },
+        {
+          "de": "Wir sind aus Indien.",
+          "en": "We are from India."
+        },
+        {
+          "de": "Wo seid ihr?",
+          "en": "Where are you (all)?"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-08",
+      "date": "2026-10-08",
+      "word": "heute",
+      "translation": "today",
+      "partOfSpeech": "adverb",
+      "grammar": {
+        "note": "Related: gestern (yesterday), morgen (tomorrow)."
+      },
+      "sentences": [
+        {
+          "de": "Heute ist Donnerstag.",
+          "en": "Today is Thursday."
+        },
+        {
+          "de": "Was machst du heute Abend?",
+          "en": "What are you doing this evening?"
+        },
+        {
+          "de": "Heute habe ich keine Zeit.",
+          "en": "I don’t have time today."
+        },
+        {
+          "de": "Das Wetter ist heute sehr gut.",
+          "en": "The weather is very good today."
+        },
+        {
+          "de": "Heute kochen wir zusammen.",
+          "en": "Today we are cooking together."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-09",
+      "date": "2026-10-09",
+      "word": "Freund",
+      "translation": "friend, boyfriend",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "der",
+        "plural": "die Freunde",
+        "note": "Female form: die Freundin (die Freundinnen). „mein Freund“ can also mean „my boyfriend“."
+      },
+      "sentences": [
+        {
+          "de": "Das ist mein Freund Tom.",
+          "en": "This is my friend Tom."
+        },
+        {
+          "de": "Ich treffe heute meine Freunde.",
+          "en": "I’m meeting my friends today."
+        },
+        {
+          "de": "Hast du viele Freunde in Berlin?",
+          "en": "Do you have many friends in Berlin?"
+        },
+        {
+          "de": "Mein bester Freund wohnt in München.",
+          "en": "My best friend lives in Munich."
+        },
+        {
+          "de": "Wir sind seit zehn Jahren Freunde.",
+          "en": "We have been friends for ten years."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-10",
+      "date": "2026-10-10",
+      "word": "trinken",
+      "translation": "to drink",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "trinke"
+            },
+            {
+              "label": "du",
+              "value": "trinkst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "trinkt"
+            },
+            {
+              "label": "wir",
+              "value": "trinken"
+            },
+            {
+              "label": "ihr",
+              "value": "trinkt"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "trinken"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich habe getrunken."
+      },
+      "sentences": [
+        {
+          "de": "Ich trinke morgens einen Tee.",
+          "en": "I drink a tea in the morning."
+        },
+        {
+          "de": "Was möchtest du trinken?",
+          "en": "What would you like to drink?"
+        },
+        {
+          "de": "Er trinkt keinen Alkohol.",
+          "en": "He doesn’t drink alcohol."
+        },
+        {
+          "de": "Wir trinken zusammen einen Kaffee.",
+          "en": "We’re having a coffee together."
+        },
+        {
+          "de": "Kinder sollen viel Wasser trinken.",
+          "en": "Children should drink a lot of water."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-11",
+      "date": "2026-10-11",
+      "word": "Arbeit",
+      "translation": "work, job",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "die",
+        "plural": "die Arbeiten",
+        "note": "„zur Arbeit gehen“ = to go to work. Verb: arbeiten."
+      },
+      "sentences": [
+        {
+          "de": "Ich fahre mit dem Bus zur Arbeit.",
+          "en": "I go to work by bus."
+        },
+        {
+          "de": "Die Arbeit beginnt um acht Uhr.",
+          "en": "Work starts at eight o’clock."
+        },
+        {
+          "de": "Meine Arbeit macht mir Spaß.",
+          "en": "I enjoy my work."
+        },
+        {
+          "de": "Sie sucht eine neue Arbeit.",
+          "en": "She is looking for a new job."
+        },
+        {
+          "de": "Nach der Arbeit gehe ich einkaufen.",
+          "en": "After work I go shopping."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-12",
+      "date": "2026-10-12",
+      "word": "kaufen",
+      "translation": "to buy",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "kaufe"
+            },
+            {
+              "label": "du",
+              "value": "kaufst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "kauft"
+            },
+            {
+              "label": "wir",
+              "value": "kaufen"
+            },
+            {
+              "label": "ihr",
+              "value": "kauft"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "kaufen"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich habe gekauft. „einkaufen“ = to go shopping."
+      },
+      "sentences": [
+        {
+          "de": "Ich kaufe Brot und Milch.",
+          "en": "I’m buying bread and milk."
+        },
+        {
+          "de": "Wo kann ich eine Fahrkarte kaufen?",
+          "en": "Where can I buy a ticket?"
+        },
+        {
+          "de": "Wir kaufen ein Geschenk für Oma.",
+          "en": "We’re buying a present for Grandma."
+        },
+        {
+          "de": "Er hat ein neues Handy gekauft.",
+          "en": "He bought a new mobile phone."
+        },
+        {
+          "de": "Kaufst du die Tomaten im Supermarkt?",
+          "en": "Are you buying the tomatoes at the supermarket?"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-13",
+      "date": "2026-10-13",
+      "word": "gut",
+      "translation": "good, well",
+      "partOfSpeech": "adjective",
+      "grammar": {
+        "table": {
+          "title": "Comparison",
+          "rows": [
+            {
+              "label": "positive",
+              "value": "gut"
+            },
+            {
+              "label": "comparative",
+              "value": "besser"
+            },
+            {
+              "label": "superlative",
+              "value": "am besten"
+            }
+          ]
+        },
+        "note": "Irregular comparison. As an adverb it means „well“."
+      },
+      "sentences": [
+        {
+          "de": "Mir geht es gut, danke.",
+          "en": "I’m fine, thanks."
+        },
+        {
+          "de": "Das Essen schmeckt sehr gut.",
+          "en": "The food tastes very good."
+        },
+        {
+          "de": "Sie spricht gut Deutsch.",
+          "en": "She speaks German well."
+        },
+        {
+          "de": "Guten Morgen!",
+          "en": "Good morning!"
+        },
+        {
+          "de": "Das ist eine gute Idee.",
+          "en": "That is a good idea."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-14",
+      "date": "2026-10-14",
+      "word": "Zeit",
+      "translation": "time",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "die",
+        "plural": "die Zeiten",
+        "note": "To ask the clock time, say „Wie spät ist es?“."
+      },
+      "sentences": [
+        {
+          "de": "Hast du morgen Zeit?",
+          "en": "Do you have time tomorrow?"
+        },
+        {
+          "de": "Ich habe keine Zeit, ich muss arbeiten.",
+          "en": "I don’t have time, I have to work."
+        },
+        {
+          "de": "Die Zeit vergeht so schnell!",
+          "en": "Time goes by so fast!"
+        },
+        {
+          "de": "Wir haben viel Zeit.",
+          "en": "We have a lot of time."
+        },
+        {
+          "de": "Nimm dir Zeit!",
+          "en": "Take your time!"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-15",
+      "date": "2026-10-15",
+      "word": "kommen",
+      "translation": "to come",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "komme"
+            },
+            {
+              "label": "du",
+              "value": "kommst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "kommt"
+            },
+            {
+              "label": "wir",
+              "value": "kommen"
+            },
+            {
+              "label": "ihr",
+              "value": "kommt"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "kommen"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich bin gekommen."
+      },
+      "sentences": [
+        {
+          "de": "Woher kommst du?",
+          "en": "Where do you come from?"
+        },
+        {
+          "de": "Ich komme aus Spanien.",
+          "en": "I come from Spain."
+        },
+        {
+          "de": "Der Bus kommt in fünf Minuten.",
+          "en": "The bus is coming in five minutes."
+        },
+        {
+          "de": "Kommst du heute Abend mit?",
+          "en": "Are you coming along this evening?"
+        },
+        {
+          "de": "Wann kommt ihr nach Hause?",
+          "en": "When are you coming home?"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-16",
+      "date": "2026-10-16",
+      "word": "Brot",
+      "translation": "bread",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "das",
+        "plural": "die Brote",
+        "note": "„das Brötchen“ = bread roll."
+      },
+      "sentences": [
+        {
+          "de": "Ich esse morgens Brot mit Käse.",
+          "en": "I eat bread with cheese in the morning."
+        },
+        {
+          "de": "Das Brot ist frisch.",
+          "en": "The bread is fresh."
+        },
+        {
+          "de": "Wir kaufen Brot beim Bäcker.",
+          "en": "We buy bread at the bakery."
+        },
+        {
+          "de": "Möchtest du noch ein Stück Brot?",
+          "en": "Would you like another piece of bread?"
+        },
+        {
+          "de": "In Deutschland gibt es viele Sorten Brot.",
+          "en": "There are many kinds of bread in Germany."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-17",
+      "date": "2026-10-17",
+      "word": "machen",
+      "translation": "to do, to make",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "mache"
+            },
+            {
+              "label": "du",
+              "value": "machst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "macht"
+            },
+            {
+              "label": "wir",
+              "value": "machen"
+            },
+            {
+              "label": "ihr",
+              "value": "macht"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "machen"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich habe gemacht."
+      },
+      "sentences": [
+        {
+          "de": "Was machst du am Wochenende?",
+          "en": "What are you doing at the weekend?"
+        },
+        {
+          "de": "Ich mache meine Hausaufgaben.",
+          "en": "I’m doing my homework."
+        },
+        {
+          "de": "Das macht zehn Euro, bitte.",
+          "en": "That’s ten euros, please."
+        },
+        {
+          "de": "Wir machen eine Pause.",
+          "en": "We’re taking a break."
+        },
+        {
+          "de": "Mach bitte das Fenster zu.",
+          "en": "Please close the window."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-18",
+      "date": "2026-10-18",
+      "word": "Familie",
+      "translation": "family",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "die",
+        "plural": "die Familien"
+      },
+      "sentences": [
+        {
+          "de": "Meine Familie ist sehr groß.",
+          "en": "My family is very big."
+        },
+        {
+          "de": "Ich wohne mit meiner Familie in Hamburg.",
+          "en": "I live with my family in Hamburg."
+        },
+        {
+          "de": "Hast du Familie?",
+          "en": "Do you have a family?"
+        },
+        {
+          "de": "Am Sonntag besuche ich meine Familie.",
+          "en": "On Sunday I visit my family."
+        },
+        {
+          "de": "Wir machen mit der Familie Urlaub.",
+          "en": "We go on holiday with the family."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-19",
+      "date": "2026-10-19",
+      "word": "sprechen",
+      "translation": "to speak, to talk",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "spreche"
+            },
+            {
+              "label": "du",
+              "value": "sprichst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "spricht"
+            },
+            {
+              "label": "wir",
+              "value": "sprechen"
+            },
+            {
+              "label": "ihr",
+              "value": "sprecht"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "sprechen"
+            }
+          ]
+        },
+        "note": "Stem change e → i (du sprichst, er spricht). Perfect tense: ich habe gesprochen."
+      },
+      "sentences": [
+        {
+          "de": "Sprechen Sie Englisch?",
+          "en": "Do you speak English?"
+        },
+        {
+          "de": "Ich spreche ein bisschen Deutsch.",
+          "en": "I speak a little German."
+        },
+        {
+          "de": "Bitte sprechen Sie langsam.",
+          "en": "Please speak slowly."
+        },
+        {
+          "de": "Er spricht mit seiner Chefin.",
+          "en": "He is talking to his boss."
+        },
+        {
+          "de": "Wir sprechen morgen darüber.",
+          "en": "We’ll talk about it tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-20",
+      "date": "2026-10-20",
+      "word": "Tag",
+      "translation": "day",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "der",
+        "plural": "die Tage"
+      },
+      "sentences": [
+        {
+          "de": "Guten Tag!",
+          "en": "Hello! (literally: good day)"
+        },
+        {
+          "de": "Ich arbeite acht Stunden am Tag.",
+          "en": "I work eight hours a day."
+        },
+        {
+          "de": "Heute ist ein schöner Tag.",
+          "en": "Today is a beautiful day."
+        },
+        {
+          "de": "Einen schönen Tag noch!",
+          "en": "Have a nice day!"
+        },
+        {
+          "de": "Wir bleiben drei Tage in Wien.",
+          "en": "We’re staying in Vienna for three days."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-21",
+      "date": "2026-10-21",
+      "word": "wohnen",
+      "translation": "to live, to reside",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "wohne"
+            },
+            {
+              "label": "du",
+              "value": "wohnst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "wohnt"
+            },
+            {
+              "label": "wir",
+              "value": "wohnen"
+            },
+            {
+              "label": "ihr",
+              "value": "wohnt"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "wohnen"
+            }
+          ]
+        },
+        "note": "„wohnen“ = to live somewhere; „leben“ = to be alive / live in general."
+      },
+      "sentences": [
+        {
+          "de": "Wo wohnst du?",
+          "en": "Where do you live?"
+        },
+        {
+          "de": "Ich wohne in Berlin.",
+          "en": "I live in Berlin."
+        },
+        {
+          "de": "Wir wohnen in einer kleinen Wohnung.",
+          "en": "We live in a small flat."
+        },
+        {
+          "de": "Meine Oma wohnt auf dem Land.",
+          "en": "My grandma lives in the countryside."
+        },
+        {
+          "de": "Wie lange wohnt ihr schon hier?",
+          "en": "How long have you been living here?"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-22",
+      "date": "2026-10-22",
+      "word": "Stadt",
+      "translation": "city, town",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "die",
+        "plural": "die Städte",
+        "note": "„in die Stadt fahren“ = to go into town."
+      },
+      "sentences": [
+        {
+          "de": "Berlin ist eine große Stadt.",
+          "en": "Berlin is a big city."
+        },
+        {
+          "de": "Ich fahre heute in die Stadt.",
+          "en": "I’m going into town today."
+        },
+        {
+          "de": "Die Stadt hat einen schönen Park.",
+          "en": "The town has a beautiful park."
+        },
+        {
+          "de": "In welcher Stadt wohnst du?",
+          "en": "Which city do you live in?"
+        },
+        {
+          "de": "Wir besichtigen heute die Altstadt.",
+          "en": "Today we’re visiting the old town."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-23",
+      "date": "2026-10-23",
+      "word": "lernen",
+      "translation": "to learn, to study",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "lerne"
+            },
+            {
+              "label": "du",
+              "value": "lernst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "lernt"
+            },
+            {
+              "label": "wir",
+              "value": "lernen"
+            },
+            {
+              "label": "ihr",
+              "value": "lernt"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "lernen"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich habe gelernt."
+      },
+      "sentences": [
+        {
+          "de": "Ich lerne Deutsch.",
+          "en": "I’m learning German."
+        },
+        {
+          "de": "Wie lange lernst du schon Deutsch?",
+          "en": "How long have you been learning German?"
+        },
+        {
+          "de": "Die Kinder lernen in der Schule lesen.",
+          "en": "The children learn to read at school."
+        },
+        {
+          "de": "Wir lernen jeden Tag zehn neue Wörter.",
+          "en": "We learn ten new words every day."
+        },
+        {
+          "de": "Er lernt für die Prüfung.",
+          "en": "He is studying for the exam."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-24",
+      "date": "2026-10-24",
+      "word": "Kaffee",
+      "translation": "coffee",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "der",
+        "plural": "die Kaffees",
+        "note": "When ordering, „zwei Kaffee“ is common."
+      },
+      "sentences": [
+        {
+          "de": "Ich trinke meinen Kaffee mit Milch.",
+          "en": "I drink my coffee with milk."
+        },
+        {
+          "de": "Zwei Kaffee, bitte!",
+          "en": "Two coffees, please!"
+        },
+        {
+          "de": "Möchtest du einen Kaffee?",
+          "en": "Would you like a coffee?"
+        },
+        {
+          "de": "Der Kaffee ist zu heiß.",
+          "en": "The coffee is too hot."
+        },
+        {
+          "de": "Wir treffen uns um drei zum Kaffee.",
+          "en": "We’re meeting at three for coffee."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-25",
+      "date": "2026-10-25",
+      "word": "schlafen",
+      "translation": "to sleep",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "schlafe"
+            },
+            {
+              "label": "du",
+              "value": "schläfst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "schläft"
+            },
+            {
+              "label": "wir",
+              "value": "schlafen"
+            },
+            {
+              "label": "ihr",
+              "value": "schlaft"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "schlafen"
+            }
+          ]
+        },
+        "note": "Stem change a → ä (du schläfst, er schläft). Perfect tense: ich habe geschlafen."
+      },
+      "sentences": [
+        {
+          "de": "Ich schlafe acht Stunden.",
+          "en": "I sleep eight hours."
+        },
+        {
+          "de": "Hast du gut geschlafen?",
+          "en": "Did you sleep well?"
+        },
+        {
+          "de": "Das Baby schläft noch.",
+          "en": "The baby is still sleeping."
+        },
+        {
+          "de": "Am Sonntag schlafe ich lange.",
+          "en": "On Sunday I sleep in."
+        },
+        {
+          "de": "Gute Nacht, schlaf gut!",
+          "en": "Good night, sleep well!"
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-26",
+      "date": "2026-10-26",
+      "word": "Auto",
+      "translation": "car",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "das",
+        "plural": "die Autos"
+      },
+      "sentences": [
+        {
+          "de": "Mein Auto ist rot.",
+          "en": "My car is red."
+        },
+        {
+          "de": "Wir fahren mit dem Auto nach Köln.",
+          "en": "We’re driving to Cologne by car."
+        },
+        {
+          "de": "Hast du ein Auto?",
+          "en": "Do you have a car?"
+        },
+        {
+          "de": "Das Auto ist neu und sehr teuer.",
+          "en": "The car is new and very expensive."
+        },
+        {
+          "de": "Ich suche einen Parkplatz für mein Auto.",
+          "en": "I’m looking for a parking space for my car."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-27",
+      "date": "2026-10-27",
+      "word": "spielen",
+      "translation": "to play",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "spiele"
+            },
+            {
+              "label": "du",
+              "value": "spielst"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "spielt"
+            },
+            {
+              "label": "wir",
+              "value": "spielen"
+            },
+            {
+              "label": "ihr",
+              "value": "spielt"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "spielen"
+            }
+          ]
+        },
+        "note": "Perfect tense: ich habe gespielt. Noun: das Spiel (game)."
+      },
+      "sentences": [
+        {
+          "de": "Die Kinder spielen im Garten.",
+          "en": "The children are playing in the garden."
+        },
+        {
+          "de": "Spielst du Fußball?",
+          "en": "Do you play football?"
+        },
+        {
+          "de": "Ich spiele seit fünf Jahren Gitarre.",
+          "en": "I’ve been playing the guitar for five years."
+        },
+        {
+          "de": "Wollen wir ein Spiel spielen?",
+          "en": "Shall we play a game?"
+        },
+        {
+          "de": "Am Abend spielen wir Karten.",
+          "en": "In the evening we play cards."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-28",
+      "date": "2026-10-28",
+      "word": "Schule",
+      "translation": "school",
+      "partOfSpeech": "noun",
+      "grammar": {
+        "article": "die",
+        "plural": "die Schulen",
+        "note": "„in die Schule gehen“ = to go to school."
+      },
+      "sentences": [
+        {
+          "de": "Meine Tochter geht in die Schule.",
+          "en": "My daughter goes to school."
+        },
+        {
+          "de": "Die Schule beginnt um acht Uhr.",
+          "en": "School starts at eight o’clock."
+        },
+        {
+          "de": "Nach der Schule mache ich Hausaufgaben.",
+          "en": "After school I do homework."
+        },
+        {
+          "de": "Unsere Schule ist sehr modern.",
+          "en": "Our school is very modern."
+        },
+        {
+          "de": "Ich lerne Deutsch an einer Sprachschule.",
+          "en": "I’m learning German at a language school."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-29",
+      "date": "2026-10-29",
+      "word": "danke",
+      "translation": "thank you, thanks",
+      "partOfSpeech": "interjection",
+      "grammar": {
+        "note": "Typical replies: „Bitte!“ or „Gern geschehen!“ (You’re welcome)."
+      },
+      "sentences": [
+        {
+          "de": "Danke für deine Hilfe!",
+          "en": "Thanks for your help!"
+        },
+        {
+          "de": "Danke schön!",
+          "en": "Thank you very much!"
+        },
+        {
+          "de": "Nein, danke.",
+          "en": "No, thank you."
+        },
+        {
+          "de": "Mir geht es gut, danke. Und dir?",
+          "en": "I’m fine, thanks. And you?"
+        },
+        {
+          "de": "Danke, das ist sehr nett von Ihnen.",
+          "en": "Thank you, that’s very kind of you."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-30",
+      "date": "2026-10-30",
+      "word": "morgen",
+      "translation": "tomorrow",
+      "partOfSpeech": "adverb",
+      "grammar": {
+        "note": "Capitalised „der Morgen“ is a noun meaning „morning“. „morgen früh“ = tomorrow morning."
+      },
+      "sentences": [
+        {
+          "de": "Bis morgen!",
+          "en": "See you tomorrow!"
+        },
+        {
+          "de": "Morgen habe ich frei.",
+          "en": "I’m off tomorrow."
+        },
+        {
+          "de": "Was machst du morgen?",
+          "en": "What are you doing tomorrow?"
+        },
+        {
+          "de": "Morgen früh fahre ich nach Frankfurt.",
+          "en": "Tomorrow morning I’m going to Frankfurt."
+        },
+        {
+          "de": "Morgen ist Samstag.",
+          "en": "Tomorrow is Saturday."
+        }
+      ]
+    },
+    {
+      "id": "a1-2026-10-31",
+      "date": "2026-10-31",
+      "word": "lesen",
+      "translation": "to read",
+      "partOfSpeech": "verb",
+      "grammar": {
+        "table": {
+          "title": "Präsens (present tense)",
+          "rows": [
+            {
+              "label": "ich",
+              "value": "lese"
+            },
+            {
+              "label": "du",
+              "value": "liest"
+            },
+            {
+              "label": "er/sie/es",
+              "value": "liest"
+            },
+            {
+              "label": "wir",
+              "value": "lesen"
+            },
+            {
+              "label": "ihr",
+              "value": "lest"
+            },
+            {
+              "label": "sie/Sie",
+              "value": "lesen"
+            }
+          ]
+        },
+        "note": "Stem change e → ie (du liest, er liest). Perfect tense: ich habe gelesen."
+      },
+      "sentences": [
+        {
+          "de": "Ich lese gern Bücher.",
+          "en": "I like reading books."
+        },
+        {
+          "de": "Liest du die Zeitung?",
+          "en": "Do you read the newspaper?"
+        },
+        {
+          "de": "Er liest jeden Abend eine Geschichte.",
+          "en": "He reads a story every evening."
+        },
+        {
+          "de": "Bitte lesen Sie den Text.",
+          "en": "Please read the text."
+        },
+        {
+          "de": "Am Wochenende lese ich ein neues Buch.",
+          "en": "At the weekend I’m reading a new book."
+        }
+      ]
+    }
+  ]
+}

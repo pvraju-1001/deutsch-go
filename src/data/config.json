@@ -1,0 +1,16 @@
+{
+  "defaultLevel": "A1",
+  "displayLocale": "en-GB",
+  "storageKeys": {
+    "level": "deutschgo.level"
+  },
+  "speech": {
+    "lang": "de-DE",
+    "rate": 0.9,
+    "pitch": 1,
+    "preferredVoiceKeywords": ["Natural", "Neural", "Google", "Katja", "Conrad", "Anna", "Hedda", "Stefan"]
+  },
+  "calendar": {
+    "weekStartsOn": 1
+  }
+}

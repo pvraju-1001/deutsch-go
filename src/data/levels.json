@@ -1,0 +1,8 @@
+[
+  { "id": "A1", "name": "Beginner", "description": "Everyday words and simple phrases.", "contentFolder": "a1" },
+  { "id": "A2", "name": "Elementary", "description": "Routine topics and short conversations.", "contentFolder": "a2" },
+  { "id": "B1", "name": "Intermediate", "description": "Work, travel and personal interests.", "contentFolder": "b1" },
+  { "id": "B2", "name": "Upper intermediate", "description": "Detailed texts and fluent discussion.", "contentFolder": "b2" },
+  { "id": "C1", "name": "Advanced", "description": "Complex texts and implicit meaning.", "contentFolder": "c1" },
+  { "id": "C2", "name": "Proficient", "description": "Near-native precision and nuance.", "contentFolder": "c2" }
+]

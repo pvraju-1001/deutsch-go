@@ -1,0 +1,31 @@
+.box {
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+}
+
+.info {
+  border-color: var(--info-border);
+  background: var(--info-bg);
+  color: var(--text);
+}
+
+.error {
+  border-color: var(--danger);
+  color: var(--danger);
+}
+
+.title {
+  margin: 0 0 4px;
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.center {
+  text-align: center;
+  padding: 40px 16px;
+}

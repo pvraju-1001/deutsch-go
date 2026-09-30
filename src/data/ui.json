@@ -1,0 +1,66 @@
+{
+  "app": {
+    "name": "DeutschGo",
+    "tagline": "One everyday German word. Five useful sentences. Every day.",
+    "footer": "Tap the speaker to hear native German pronunciation (uses your device's German voice)."
+  },
+  "nav": {
+    "today": "Today",
+    "calendar": "Calendar"
+  },
+  "levelSelector": {
+    "label": "Level",
+    "comingSoon": "coming soon"
+  },
+  "home": {
+    "eyebrow": "Word of the day",
+    "nearestNotice": "No word is scheduled for {today}. Showing {date} instead."
+  },
+  "word": {
+    "listen": "Listen to “{text}”",
+    "sentencesTitle": "5 useful sentences",
+    "grammarTitle": "Grammar",
+    "article": "Article",
+    "plural": "Plural",
+    "note": "Note",
+    "partsOfSpeech": {
+      "noun": "Noun",
+      "verb": "Verb",
+      "adjective": "Adjective",
+      "adverb": "Adverb",
+      "interjection": "Interjection",
+      "preposition": "Preposition",
+      "pronoun": "Pronoun",
+      "conjunction": "Conjunction"
+    }
+  },
+  "day": {
+    "previous": "Previous",
+    "next": "Next",
+    "navigationLabel": "Day navigation",
+    "notFound": "There is no {level} word for {date}."
+  },
+  "calendar": {
+    "title": "Calendar",
+    "subtitle": "Pick any day to open its word.",
+    "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "today": "Today",
+    "wordCount": "{count} words"
+  },
+  "speech": {
+    "unsupported": "Your browser can't play speech. Try Chrome, Edge or Safari for audio.",
+    "noGermanVoice": "No German voice was found on this device, so audio may sound un-German. Install a German voice in your system settings for the best result."
+  },
+  "status": {
+    "loading": "Loading…",
+    "error": "Something went wrong while loading the words.",
+    "comingSoonTitle": "{level} is coming soon",
+    "comingSoonText": "Content for this level isn't ready yet. Switch to an available level to keep learning.",
+    "empty": "No words are available for this level yet."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you're looking for doesn't exist.",
+    "back": "Go to today's word"
+  }
+}
